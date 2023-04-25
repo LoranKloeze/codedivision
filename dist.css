@@ -522,20 +522,20 @@ video {
   margin-top: 5rem;
 }
 
+.mt-28 {
+  margin-top: 7rem;
+}
+
 .flex {
   display: flex;
 }
 
-.w-2\/5 {
-  width: 40%;
+.w-1\/5 {
+  width: 20%;
 }
 
 .w-3\/5 {
   width: 60%;
-}
-
-.grow {
-  flex-grow: 1;
 }
 
 .list-none {
@@ -546,20 +546,12 @@ video {
   flex-direction: column;
 }
 
-.items-stretch {
-  align-items: stretch;
-}
-
 .justify-center {
   justify-content: center;
 }
 
 .justify-between {
   justify-content: space-between;
-}
-
-.justify-around {
-  justify-content: space-around;
 }
 
 .bg-gray-900 {
@@ -576,6 +568,10 @@ video {
   padding-top: 4rem;
 }
 
+.pt-32 {
+  padding-top: 8rem;
+}
+
 .text-center {
   text-align: center;
 }
@@ -583,11 +579,6 @@ video {
 .text-2xl {
   font-size: 1.5rem;
   line-height: 2rem;
-}
-
-.text-3xl {
-  font-size: 1.875rem;
-  line-height: 2.25rem;
 }
 
 .text-gray-100 {
