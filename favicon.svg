@@ -1,31 +1,22 @@
-<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In  -->
-<svg version="1.1"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 x="0px" y="0px" width="70.8px" height="123.1px" viewBox="0 0 70.8 123.1" style="enable-background:new 0 0 70.8 123.1;"
-	 xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#DB2878;stroke:#111928;stroke-miterlimit:10;}
-</style>
-<defs>
-</defs>
-<g id="XMLID_16_">
-	<g id="XMLID_18_">
-		<rect id="XMLID_34_" x="0.5" y="0.5" class="st0" width="17.4" height="17.4"/>
-		<rect id="XMLID_33_" x="0.5" y="17.9" class="st0" width="17.4" height="17.4"/>
-		<rect id="XMLID_32_" x="0.5" y="35.4" class="st0" width="17.4" height="17.4"/>
-		<rect id="XMLID_31_" x="0.5" y="52.8" class="st0" width="17.4" height="17.4"/>
-		<rect id="XMLID_30_" x="0.5" y="70.3" class="st0" width="17.4" height="17.4"/>
-		<rect id="XMLID_29_" x="0.5" y="87.7" class="st0" width="17.4" height="17.4"/>
-		<rect id="XMLID_28_" x="17.9" y="17.9" class="st0" width="17.4" height="17.4"/>
-		<rect id="XMLID_27_" x="17.9" y="35.4" class="st0" width="17.4" height="17.4"/>
-		<rect id="XMLID_26_" x="17.9" y="52.8" class="st0" width="17.4" height="17.4"/>
-		<rect id="XMLID_25_" x="17.9" y="70.3" class="st0" width="17.4" height="17.4"/>
-		<rect id="XMLID_24_" x="17.9" y="87.7" class="st0" width="17.4" height="17.4"/>
-		<rect id="XMLID_23_" x="35.4" y="35.4" class="st0" width="17.4" height="17.4"/>
-		<rect id="XMLID_22_" x="35.4" y="52.8" class="st0" width="17.4" height="17.4"/>
-		<rect id="XMLID_21_" x="35.4" y="70.3" class="st0" width="17.4" height="17.4"/>
-		<rect id="XMLID_20_" x="52.8" y="52.8" class="st0" width="17.4" height="17.4"/>
-		<rect id="XMLID_19_" x="0.5" y="105.2" class="st0" width="17.4" height="17.4"/>
-	</g>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #8a5ba5;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" width="100" height="100"/>
+  <g>
+    <rect class="cls-1" x="11.96" y="23.64" width="14.98" height="52.72" rx="3.06" ry="3.06"/>
+    <rect class="cls-1" x="32.33" y="61.38" width="14.98" height="14.98" rx="3.05" ry="3.05"/>
+    <rect class="cls-1" x="32.33" y="23.64" width="14.98" height="14.98" rx="3.06" ry="3.06"/>
+    <rect class="cls-1" x="73.07" y="23.64" width="14.98" height="52.72" rx="3.06" ry="3.06"/>
+    <rect class="cls-1" x="52.7" y="50" width="14.98" height="26.36" rx="3.01" ry="3.01"/>
+  </g>
 </svg>
