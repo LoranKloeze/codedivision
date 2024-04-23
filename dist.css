@@ -554,12 +554,51 @@ video {
   --tw-contain-style:  ;
 }
 
+.container {
+  width: 100%;
+}
+
+@media (min-width: 640px) {
+  .container {
+    max-width: 640px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 768px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .container {
+    max-width: 1024px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .container {
+    max-width: 1280px;
+  }
+}
+
+@media (min-width: 1536px) {
+  .container {
+    max-width: 1536px;
+  }
+}
+
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .mb-20 {
   margin-bottom: 5rem;
 }
 
-.mt-28 {
-  margin-top: 7rem;
+.mb-28 {
+  margin-bottom: 7rem;
 }
 
 .mb-5 {
@@ -570,16 +609,12 @@ video {
   margin-top: 3.5rem;
 }
 
-.mb-28 {
-  margin-bottom: 7rem;
+.mt-28 {
+  margin-top: 7rem;
 }
 
 .flex {
   display: flex;
-}
-
-.h-2 {
-  height: 0.5rem;
 }
 
 .h-1 {
@@ -598,23 +633,14 @@ video {
   justify-content: center;
 }
 
-.border-b-2 {
-  border-bottom-width: 2px;
-}
-
-.border-cdblue-500 {
-  --tw-border-opacity: 1;
-  border-color: rgb(65 105 225 / var(--tw-border-opacity));
+.bg-cdblue-500 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(65 105 225 / var(--tw-bg-opacity));
 }
 
 .bg-zinc-900 {
   --tw-bg-opacity: 1;
   background-color: rgb(24 24 27 / var(--tw-bg-opacity));
-}
-
-.bg-cdblue-500 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(65 105 225 / var(--tw-bg-opacity));
 }
 
 .px-5 {
@@ -626,23 +652,14 @@ video {
   text-align: center;
 }
 
-.text-xs {
-  font-size: 0.75rem;
-  line-height: 1rem;
-}
-
-.text-3xl {
-  font-size: 1.875rem;
-  line-height: 2.25rem;
-}
-
 .text-2xl {
   font-size: 1.5rem;
   line-height: 2rem;
 }
 
-.font-bold {
-  font-weight: 700;
+.text-xs {
+  font-size: 0.75rem;
+  line-height: 1rem;
 }
 
 .font-thin {
@@ -660,4 +677,26 @@ video {
 
 .bg-brand {
   background-color: #8A5BA5;
+}
+
+@media (min-width: 768px) {
+  .md\:hidden {
+    display: none;
+  }
+
+  .md\:w-1\/12 {
+    width: 8.333333%;
+  }
+
+  .md\:w-2\/12 {
+    width: 16.666667%;
+  }
+
+  .md\:w-6\/12 {
+    width: 50%;
+  }
+
+  .md\:w-1\/2 {
+    width: 50%;
+  }
 }
