@@ -1,15 +1,19 @@
+/** @type {import('tailwindcss').Config} */
 module.exports = {
-  purge: [
-    'index.html'
-  ],
-  darkMode: false, // or 'media' or 'class'
+  content: ["index.html"],
   theme: {
-    fontFamily: {
-      'sans': ['Roboto', 'sans-serif'],
+    extend: {
+      colors: {
+        cdblue: {
+          500: '#4169E1'
+        }
+      }
     },
-  },
-  variants: {
-    extend: {},
+    // Font family is Inter
+    fontFamily: {
+      sans: ['Inter', 'sans-serif'],
+    },
   },
   plugins: [],
 }
+
