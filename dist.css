@@ -680,29 +680,12 @@ video {
 }
 
 @media (min-width: 768px) {
-  .md\:hidden {
-    display: none;
-  }
-
-  .md\:w-1\/12 {
-    width: 8.333333%;
-  }
-
-  .md\:w-2\/12 {
-    width: 16.666667%;
-  }
-
-  .md\:w-6\/12 {
-    width: 50%;
-  }
-
   .md\:w-1\/2 {
     width: 50%;
   }
 
-  .md\:text-sm {
-    font-size: 0.875rem;
-    line-height: 1.25rem;
+  .md\:w-2\/12 {
+    width: 16.666667%;
   }
 
   .md\:text-xl {
